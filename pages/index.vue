@@ -1,5 +1,6 @@
 <template>
   <div>
-　　<NuxtPage />
+    <h1>Top Page</h1>
+    <hr>
   </div>
 </template>
